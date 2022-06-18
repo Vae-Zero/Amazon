@@ -1,0 +1,26 @@
+﻿  源.cpp
+C:\Users\lenovo\Desktop\Amazons\Amazons\源.cpp(839,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\lenovo\Desktop\Amazons\Amazons\源.cpp(840,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\lenovo\Desktop\Amazons\Amazons\源.cpp(855,15): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\lenovo\Desktop\Amazons\Amazons\源.cpp(954,11): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\lenovo\Desktop\Amazons\Amazons\源.cpp(954,21): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\lenovo\Desktop\Amazons\Amazons\源.cpp(954,31): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\lenovo\Desktop\Amazons\Amazons\源.cpp(954,41): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\lenovo\Desktop\Amazons\Amazons\源.cpp(957,11): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\lenovo\Desktop\Amazons\Amazons\源.cpp(957,21): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\lenovo\Desktop\Amazons\Amazons\源.cpp(957,31): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\lenovo\Desktop\Amazons\Amazons\源.cpp(957,41): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\lenovo\Desktop\Amazons\Amazons\源.cpp(957,51): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\lenovo\Desktop\Amazons\Amazons\源.cpp(960,11): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\lenovo\Desktop\Amazons\Amazons\源.cpp(960,21): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\lenovo\Desktop\Amazons\Amazons\源.cpp(960,31): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\lenovo\Desktop\Amazons\Amazons\源.cpp(960,41): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\lenovo\Desktop\Amazons\Amazons\源.cpp(960,51): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\lenovo\Desktop\Amazons\Amazons\源.cpp(963,11): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\lenovo\Desktop\Amazons\Amazons\源.cpp(963,31): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\lenovo\Desktop\Amazons\Amazons\源.cpp(963,41): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\lenovo\Desktop\Amazons\Amazons\源.cpp(963,51): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\lenovo\Desktop\Amazons\Amazons\源.cpp(965,26): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\lenovo\Desktop\Amazons\Amazons\源.cpp(998,22): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\lenovo\Desktop\Amazons\Amazons\源.cpp(1021,22): warning C4305: “初始化”: 从“int”到“float”截断
+  Amazons.vcxproj -> C:\Users\lenovo\Desktop\Amazons\Debug\Amazons.exe
